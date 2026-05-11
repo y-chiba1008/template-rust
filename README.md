@@ -1,2 +1,2 @@
-# template-python
-Python用テンプレートリポジトリ
+# template-rust
+Rust用テンプレートリポジトリ
